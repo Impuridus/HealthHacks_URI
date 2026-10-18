@@ -12,3 +12,7 @@ __pycache__/
 
 # VS Code local settings
 .vscode/
+__pycache__/
+*.pyc
+emg/emg_baselines.json
+emg/emg_baselines.tmp
